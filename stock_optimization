@@ -1,0 +1,13 @@
+dataiku plugin
+
+"Optimization approaches plugin
+In many business applications, prediction is only the starting point. For instance, if we have a model that predicts stocks in different warehouses, we still need to see how to best optimize the transport between the warehouses. 
+This plugin provides a template notebook that shows how to optimize tranport in a network using linear programming with Pyomo."
+
+https://www.dataiku.com/dss/plugins/info/optimization-approaches.html
+
+Plugin Information
+Version	0.0.2
+Author	Dataiku (Pierre P & Du P)
+Released	2018-08-01
+Last updated	2018-08-01
